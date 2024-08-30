@@ -11,11 +11,10 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 🤝 I’m looking for help with **Any project you struggle with**
+- 🤝 I’m looking to help with **Any project you struggle with**
 
 - 💬 Ask me about **Frontend, Backend, Azure, Linux**
 
-- 📫 How to reach me **Owner2303@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
